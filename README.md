@@ -90,4 +90,4 @@ OSC-Template is under The MIT License. Read the [LICENSE](https://github.com/Ope
 
 ---
 
-![Footer-credit](assets/footercredits.png)
+<img src="assets/footercredits.png" width = "600px">
