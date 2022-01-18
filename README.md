@@ -1,7 +1,7 @@
 # OSC-Template
 
 <p align="center">
-    <img src="assets/Logo.PNG" alt="Logo" border="0">
+    <img src="assets/Logo.png" alt="Logo" border="0">
     <br>Shrot description of the project
 </p>
 
