@@ -2,7 +2,7 @@
 
 <p align="center">
     <img src="assets/Logo.png" alt="Logo" border="0">
-    <br>Shrot description of the project
+    <br>Short description of the project
 </p>
 
 ---
