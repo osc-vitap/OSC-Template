@@ -30,7 +30,7 @@
 
 <!--- Insert product screenshot below --->
 
-![Project Screenshot](https://shorturl.at/hBY08)
+![Product Screenshot](https://i.ibb.co/dmJzT5v/product-img.jpg)
 
 <!--- replace with motivation for your project --->
 
